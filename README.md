@@ -1,5 +1,5 @@
 # Mediaflux Scripts
 
-- `mediaflux_query_dump.ipynb`: Jupyter notebook to output TSV and XLSX files 
-  with metadata from all assets in the Hoffmann Lab Mediaflux project.
-
+- `mediaflux_query_dump/`: Output all metadata in the Hoffmann Lab Mediaflux
+  project to TSV and XLSX files.
+- `samples_map/`: Interactive JavaScript map showing sample data origin. 
