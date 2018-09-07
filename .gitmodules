@@ -1,0 +1,3 @@
+[submodule "python-mfclient"]
+	path = python-mfclient
+	url = https://github.com/UoM-ResPlat-DevOps/python-mfclient

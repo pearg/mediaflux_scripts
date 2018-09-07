@@ -2,4 +2,3 @@
 cache_*.pkl
 *.log
 output/
-python-mfclient/
